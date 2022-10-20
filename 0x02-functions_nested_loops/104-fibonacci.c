@@ -7,9 +7,7 @@
  */
 
 int main(void)
-
 {
-
 	int c, boolean, boolean2;
 	long int n1, n2, fn, fn2, n11, n22;
 
