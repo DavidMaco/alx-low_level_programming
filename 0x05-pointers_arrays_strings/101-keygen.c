@@ -1,11 +1,8 @@
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <time.h>
-
 /**
- * main - program that generates random valid passwords for the program.
+ * main - program that generates keygen.
  * Return: 0 Always.
  */
 int main(void)
